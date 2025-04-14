@@ -27,7 +27,7 @@ The dataset includes:
 
 ## 📚 Notebook
 The full notebook is available in this repository:  
-👉 [AI_Research_Papers_Analysis.ipynb](AI_Research_Papers_Analysis.ipynb)
+👉 [AI_Research_Papers_Analysis.ipynb](https://github.com/Muneeb99-tech/AI-Research-Papers/blob/main/artificial-intelligence-research-papers.ipynb)
 
 ## 🌐 Linked Resources
 - [View on Kaggle](https://www.kaggle.com/code/themuneeb99/artificial-intelligence-research-papers)
